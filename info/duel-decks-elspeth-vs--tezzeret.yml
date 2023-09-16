@@ -1,0 +1,18 @@
+---
+object: set
+id: 2a5a88d5-e2ac-4252-bc4e-62654b1f9a46
+code: ddf
+mtgo_code: ddf
+arena_code: ddf
+tcgplayer_id: 32
+name: 'Duel Decks: Elspeth vs. Tezzeret'
+uri: https://api.scryfall.com/sets/2a5a88d5-e2ac-4252-bc4e-62654b1f9a46
+scryfall_uri: https://scryfall.com/sets/ddf
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Addf&unique=prints
+released_at: '2010-09-03'
+set_type: duel_deck
+card_count: 79
+digital: false
+nonfoil_only: false
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/ddf.svg?1694404800
